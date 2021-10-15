@@ -1,0 +1,287 @@
+[INFO]-[2021/10/11 00:58:15] Cloning: 1633913894807's clone job's data is not in database, generating data
+[INFO]-[2021/10/11 00:58:15] DB Copy: Creating table wpstg0_actionscheduler_actions
+[INFO]-[2021/10/11 00:58:15] DB Copy: Table wp_actionscheduler_actions contains 38 rows 
+[INFO]-[2021/10/11 00:58:15] DB Copy: wp_actionscheduler_actions as wpstg0_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:15] DB Copy: Creating table wpstg0_actionscheduler_claims
+[INFO]-[2021/10/11 00:58:15] DB Copy: Table wp_actionscheduler_claims contains 0 rows 
+[INFO]-[2021/10/11 00:58:15] DB Copy: Creating table wpstg0_actionscheduler_groups
+[INFO]-[2021/10/11 00:58:15] DB Copy: Table wp_actionscheduler_groups contains 2 rows 
+[INFO]-[2021/10/11 00:58:15] DB Copy: wp_actionscheduler_groups as wpstg0_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:15] DB Copy: Creating table wpstg0_actionscheduler_logs
+[INFO]-[2021/10/11 00:58:15] DB Copy: Table wp_actionscheduler_logs contains 109 rows 
+[INFO]-[2021/10/11 00:58:15] DB Copy: wp_actionscheduler_logs as wpstg0_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:16] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2021/10/11 00:58:16] DB Copy: Table wp_commentmeta contains 0 rows 
+[INFO]-[2021/10/11 00:58:16] DB Copy: Creating table wpstg0_comments
+[INFO]-[2021/10/11 00:58:16] DB Copy: Table wp_comments contains 1 rows 
+[INFO]-[2021/10/11 00:58:16] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:16] DB Copy: Creating table wpstg0_frmt_form_entry
+[INFO]-[2021/10/11 00:58:16] DB Copy: Table wp_frmt_form_entry contains 0 rows 
+[INFO]-[2021/10/11 00:58:16] DB Copy: Creating table wpstg0_frmt_form_entry_meta
+[INFO]-[2021/10/11 00:58:16] DB Copy: Table wp_frmt_form_entry_meta contains 0 rows 
+[INFO]-[2021/10/11 00:58:16] DB Copy: Creating table wpstg0_frmt_form_views
+[INFO]-[2021/10/11 00:58:16] DB Copy: Table wp_frmt_form_views contains 2 rows 
+[INFO]-[2021/10/11 00:58:16] DB Copy: wp_frmt_form_views as wpstg0_frmt_form_views from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_links
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_links contains 0 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_mappress_maps
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_mappress_maps contains 2 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: wp_mappress_maps as wpstg0_mappress_maps from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_mappress_posts
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_mappress_posts contains 1 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: wp_mappress_posts as wpstg0_mappress_posts from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_ngg_album
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_ngg_album contains 0 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_ngg_gallery
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_ngg_gallery contains 2 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: wp_ngg_gallery as wpstg0_ngg_gallery from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:17] DB Copy: Creating table wpstg0_ngg_pictures
+[INFO]-[2021/10/11 00:58:17] DB Copy: Table wp_ngg_pictures contains 47 rows 
+[INFO]-[2021/10/11 00:58:17] DB Copy: wp_ngg_pictures as wpstg0_ngg_pictures from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:18] DB Copy: Creating table wpstg0_options
+[INFO]-[2021/10/11 00:58:18] DB Copy: Table wp_options contains 294 rows 
+[INFO]-[2021/10/11 00:58:18] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:18] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2021/10/11 00:58:18] DB Copy: Table wp_postmeta contains 984 rows 
+[INFO]-[2021/10/11 00:58:18] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:18] DB Copy: Creating table wpstg0_posts
+[INFO]-[2021/10/11 00:58:18] DB Copy: Table wp_posts contains 375 rows 
+[INFO]-[2021/10/11 00:58:18] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:18] DB Copy: Creating table wpstg0_subscribe2
+[INFO]-[2021/10/11 00:58:18] DB Copy: Table wp_subscribe2 contains 0 rows 
+[INFO]-[2021/10/11 00:58:18] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2021/10/11 00:58:18] DB Copy: Table wp_term_relationships contains 227 rows 
+[INFO]-[2021/10/11 00:58:18] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_term_taxonomy contains 29 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_termmeta contains 0 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_terms
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_terms contains 29 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_usermeta contains 68 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_users
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_users contains 3 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:19] DB Copy: Creating table wpstg0_wpforms_tasks_meta
+[INFO]-[2021/10/11 00:58:19] DB Copy: Table wp_wpforms_tasks_meta contains 15 rows 
+[INFO]-[2021/10/11 00:58:19] DB Copy: wp_wpforms_tasks_meta as wpstg0_wpforms_tasks_meta from 0 to 10000 records
+[INFO]-[2021/10/11 00:58:20] DB Copy: Creating table wpstg0_wpgmza
+[INFO]-[2021/10/11 00:58:20] DB Copy: Table wp_wpgmza contains 0 rows 
+[INFO]-[2021/10/11 00:58:20] DB Search & Replace:  Table wpstg0_actionscheduler_actions 0 to 20000 records
+[INFO]-[2021/10/11 00:58:20] DB Search & Replace:  Table wpstg0_actionscheduler_groups 0 to 20000 records
+[INFO]-[2021/10/11 00:58:21] DB Search & Replace:  Table wpstg0_actionscheduler_logs 0 to 20000 records
+[INFO]-[2021/10/11 00:58:21] DB Search & Replace:  Table wpstg0_comments 0 to 20000 records
+[INFO]-[2021/10/11 00:58:21] DB Search & Replace:  Table wpstg0_frmt_form_views 0 to 20000 records
+[INFO]-[2021/10/11 00:58:22] DB Search & Replace:  Table wpstg0_mappress_maps 0 to 20000 records
+[INFO]-[2021/10/11 00:58:22] DB Search & Replace:  Table wpstg0_mappress_posts 0 to 20000 records
+[INFO]-[2021/10/11 00:58:22] DB Search & Replace:  Table wpstg0_ngg_gallery 0 to 20000 records
+[INFO]-[2021/10/11 00:58:22] DB Search & Replace:  Table wpstg0_ngg_pictures 0 to 20000 records
+[INFO]-[2021/10/11 00:58:22] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2021/10/11 00:58:23] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2021/10/11 00:58:23] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2021/10/11 00:58:23] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2021/10/11 00:58:23] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2021/10/11 00:58:24] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2021/10/11 00:58:24] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2021/10/11 00:58:24] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2021/10/11 00:58:24] DB Search & Replace:  Table wpstg0_wpforms_tasks_meta 0 to 20000 records
+[INFO]-[2021/10/11 00:58:25] Scanning / for its files
+[INFO]-[2021/10/11 00:58:25] Scanning wp-content/plugins and its sub-directories and files
+[INFO]-[2021/10/11 00:58:25] Scanning wp-content/mu-plugins and its sub-directories and files
+[INFO]-[2021/10/11 00:58:25] Scanning wp-content/themes and its sub-directories and files
+[INFO]-[2021/10/11 00:58:25] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2021/10/11 00:58:26] Scanning wp-content for other directories
+[INFO]-[2021/10/11 00:58:26] Scanning wp-includes for its sub-directories and files
+[INFO]-[2021/10/11 00:58:26] Scanning wp-admin for its sub-directories and files
+[INFO]-[2021/10/11 00:58:26] Copying files...
+[INFO]-[2021/10/11 00:58:26] Total 50 files processed
+[INFO]-[2021/10/11 00:58:27] Total 100 files processed
+[INFO]-[2021/10/11 00:58:27] Total 150 files processed
+[INFO]-[2021/10/11 00:58:27] Total 200 files processed
+[INFO]-[2021/10/11 00:58:27] Total 250 files processed
+[INFO]-[2021/10/11 00:58:27] Total 300 files processed
+[INFO]-[2021/10/11 00:58:27] Total 350 files processed
+[INFO]-[2021/10/11 00:58:27] Total 400 files processed
+[INFO]-[2021/10/11 00:58:28] Total 450 files processed
+[INFO]-[2021/10/11 00:58:28] Total 500 files processed
+[INFO]-[2021/10/11 00:58:28] Total 550 files processed
+[INFO]-[2021/10/11 00:58:28] Total 600 files processed
+[INFO]-[2021/10/11 00:58:28] Total 650 files processed
+[INFO]-[2021/10/11 00:58:28] Total 700 files processed
+[INFO]-[2021/10/11 00:58:29] Total 750 files processed
+[INFO]-[2021/10/11 00:58:29] Total 800 files processed
+[INFO]-[2021/10/11 00:58:29] Total 850 files processed
+[INFO]-[2021/10/11 00:58:29] Total 900 files processed
+[INFO]-[2021/10/11 00:58:29] Total 950 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1000 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1050 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1100 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1150 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1200 files processed
+[INFO]-[2021/10/11 00:58:30] Total 1250 files processed
+[INFO]-[2021/10/11 00:58:31] Total 1300 files processed
+[INFO]-[2021/10/11 00:58:31] Total 1350 files processed
+[INFO]-[2021/10/11 00:58:31] Total 1400 files processed
+[INFO]-[2021/10/11 00:58:31] Total 1450 files processed
+[INFO]-[2021/10/11 00:58:31] Total 1500 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1550 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1600 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1650 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1700 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1750 files processed
+[INFO]-[2021/10/11 00:58:32] Total 1800 files processed
+[INFO]-[2021/10/11 00:58:33] Total 1850 files processed
+[INFO]-[2021/10/11 00:58:33] Total 1900 files processed
+[INFO]-[2021/10/11 00:58:33] Total 1950 files processed
+[INFO]-[2021/10/11 00:58:33] Total 2000 files processed
+[INFO]-[2021/10/11 00:58:33] Total 2050 files processed
+[INFO]-[2021/10/11 00:58:33] Total 2100 files processed
+[INFO]-[2021/10/11 00:58:34] Total 2150 files processed
+[INFO]-[2021/10/11 00:58:34] Total 2200 files processed
+[INFO]-[2021/10/11 00:58:34] Total 2250 files processed
+[INFO]-[2021/10/11 00:58:34] Total 2300 files processed
+[INFO]-[2021/10/11 00:58:34] Total 2350 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2400 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2450 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2500 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2550 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2600 files processed
+[INFO]-[2021/10/11 00:58:35] Total 2650 files processed
+[INFO]-[2021/10/11 00:58:36] Total 2700 files processed
+[INFO]-[2021/10/11 00:58:36] Total 2750 files processed
+[INFO]-[2021/10/11 00:58:36] Total 2800 files processed
+[INFO]-[2021/10/11 00:58:36] Total 2850 files processed
+[INFO]-[2021/10/11 00:58:36] Total 2900 files processed
+[INFO]-[2021/10/11 00:58:37] Total 2950 files processed
+[INFO]-[2021/10/11 00:58:37] Total 3000 files processed
+[INFO]-[2021/10/11 00:58:37] Total 3050 files processed
+[INFO]-[2021/10/11 00:58:37] Total 3100 files processed
+[INFO]-[2021/10/11 00:58:37] Total 3150 files processed
+[INFO]-[2021/10/11 00:58:37] Total 3200 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3250 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3300 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3350 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3400 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3450 files processed
+[INFO]-[2021/10/11 00:58:38] Total 3500 files processed
+[INFO]-[2021/10/11 00:58:39] Total 3550 files processed
+[INFO]-[2021/10/11 00:58:39] Total 3600 files processed
+[INFO]-[2021/10/11 00:58:39] Total 3650 files processed
+[INFO]-[2021/10/11 00:58:39] Total 3700 files processed
+[INFO]-[2021/10/11 00:58:39] Total 3750 files processed
+[INFO]-[2021/10/11 00:58:40] Total 3800 files processed
+[INFO]-[2021/10/11 00:58:40] Total 3850 files processed
+[INFO]-[2021/10/11 00:58:40] Total 3900 files processed
+[INFO]-[2021/10/11 00:58:40] Total 3950 files processed
+[INFO]-[2021/10/11 00:58:40] Total 4000 files processed
+[INFO]-[2021/10/11 00:58:40] Total 4050 files processed
+[INFO]-[2021/10/11 00:58:41] Total 4100 files processed
+[INFO]-[2021/10/11 00:58:41] Total 4150 files processed
+[INFO]-[2021/10/11 00:58:41] Total 4200 files processed
+[INFO]-[2021/10/11 00:58:41] Total 4250 files processed
+[INFO]-[2021/10/11 00:58:41] Total 4300 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4350 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4400 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4450 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4500 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4550 files processed
+[INFO]-[2021/10/11 00:58:42] Total 4600 files processed
+[INFO]-[2021/10/11 00:58:43] Total 4650 files processed
+[INFO]-[2021/10/11 00:58:43] Total 4700 files processed
+[INFO]-[2021/10/11 00:58:43] Total 4750 files processed
+[INFO]-[2021/10/11 00:58:43] Total 4800 files processed
+[INFO]-[2021/10/11 00:58:43] Total 4850 files processed
+[INFO]-[2021/10/11 00:58:44] Total 4900 files processed
+[INFO]-[2021/10/11 00:58:44] Total 4950 files processed
+[INFO]-[2021/10/11 00:58:44] Total 5000 files processed
+[INFO]-[2021/10/11 00:58:44] Total 5050 files processed
+[INFO]-[2021/10/11 00:58:44] Total 5100 files processed
+[INFO]-[2021/10/11 00:58:44] Total 5150 files processed
+[INFO]-[2021/10/11 00:58:45] Total 5200 files processed
+[INFO]-[2021/10/11 00:58:45] Total 5250 files processed
+[INFO]-[2021/10/11 00:58:45] Total 5300 files processed
+[INFO]-[2021/10/11 00:58:45] Total 5350 files processed
+[INFO]-[2021/10/11 00:58:46] Total 5400 files processed
+[INFO]-[2021/10/11 00:58:46] Total 5450 files processed
+[INFO]-[2021/10/11 00:58:46] Total 5500 files processed
+[INFO]-[2021/10/11 00:58:46] Total 5550 files processed
+[INFO]-[2021/10/11 00:58:47] Total 5600 files processed
+[INFO]-[2021/10/11 00:58:47] Total 5650 files processed
+[INFO]-[2021/10/11 00:58:47] Total 5700 files processed
+[INFO]-[2021/10/11 00:58:47] Total 5750 files processed
+[INFO]-[2021/10/11 00:58:48] Total 5800 files processed
+[INFO]-[2021/10/11 00:58:48] Total 5850 files processed
+[INFO]-[2021/10/11 00:58:48] Total 5900 files processed
+[INFO]-[2021/10/11 00:58:48] Total 5950 files processed
+[INFO]-[2021/10/11 00:58:48] Total 6000 files processed
+[INFO]-[2021/10/11 00:58:48] Total 6050 files processed
+[INFO]-[2021/10/11 00:58:49] Total 6100 files processed
+[INFO]-[2021/10/11 00:58:49] Total 6150 files processed
+[INFO]-[2021/10/11 00:58:49] Total 6200 files processed
+[INFO]-[2021/10/11 00:58:49] Total 6250 files processed
+[INFO]-[2021/10/11 00:58:49] Total 6300 files processed
+[INFO]-[2021/10/11 00:58:50] Total 6350 files processed
+[INFO]-[2021/10/11 00:58:50] Total 6400 files processed
+[INFO]-[2021/10/11 00:58:50] Total 6450 files processed
+[INFO]-[2021/10/11 00:58:50] Total 6500 files processed
+[INFO]-[2021/10/11 00:58:50] Total 6550 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6600 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6650 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6700 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6750 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6800 files processed
+[INFO]-[2021/10/11 00:58:51] Total 6850 files processed
+[INFO]-[2021/10/11 00:58:52] Total 6900 files processed
+[INFO]-[2021/10/11 00:58:52] Total 6950 files processed
+[INFO]-[2021/10/11 00:58:52] Total 7000 files processed
+[INFO]-[2021/10/11 00:58:52] Total 7050 files processed
+[INFO]-[2021/10/11 00:58:52] Total 7100 files processed
+[INFO]-[2021/10/11 00:58:52] Total 7150 files processed
+[INFO]-[2021/10/11 00:58:53] Total 7200 files processed
+[INFO]-[2021/10/11 00:58:53] Total 7250 files processed
+[INFO]-[2021/10/11 00:58:53] Total 7300 files processed
+[INFO]-[2021/10/11 00:58:53] Total 7350 files processed
+[INFO]-[2021/10/11 00:58:54] Total 7400 files processed
+[INFO]-[2021/10/11 00:58:54] Total 7450 files processed
+[INFO]-[2021/10/11 00:58:54] Total 7500 files processed
+[INFO]-[2021/10/11 00:58:54] Total 7550 files processed
+[INFO]-[2021/10/11 00:58:54] Total 7600 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7650 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7700 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7750 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7800 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7850 files processed
+[INFO]-[2021/10/11 00:58:55] Total 7900 files processed
+[INFO]-[2021/10/11 00:58:56] Total 7950 files processed
+[INFO]-[2021/10/11 00:58:56] Total 8000 files processed
+[INFO]-[2021/10/11 00:58:56] Total 8050 files processed
+[INFO]-[2021/10/11 00:58:56] Total 8100 files processed
+[WARNING]-[2021/10/11 00:58:56] File doesn't exist /home/customer/www/kayleed.sgedu.site/public_html/
+[INFO]-[2021/10/11 00:58:56] Skipped symlinking Wp Uploads Folder
+[INFO]-[2021/10/11 00:58:56] Copying files finished
+[INFO]-[2021/10/11 00:58:57] DB Data Step0: Copy wp-config.php file
+[INFO]-[2021/10/11 00:58:57] DB Data Step0: Skipping: wp-config.php already exists in /home/customer/www/kayleed.sgedu.site/public_html/1633913894807/wp-config.php
+[INFO]-[2021/10/11 00:58:57] DB Data Step1: Updating siteurl and homeurl in wpstg0_options to https://kayleed.sgedu.site/1633913894807
+[INFO]-[2021/10/11 00:58:57] DB Data Step2: Updating wpstg0_options 
+[INFO]-[2021/10/11 00:58:57] DB Data Step3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2021/10/11 00:58:57] DB Data Step4: Updating table_prefix in /home/customer/www/kayleed.sgedu.site/public_html/1633913894807/wp-config.php to wpstg0_
+[INFO]-[2021/10/11 00:58:57] DB Data Step5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2021/10/11 00:58:57] DB Data Step6: Updating db prefix in wpstg0_options.
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Updating constants in wp-config.php
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:UPLOADS
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_PLUGIN_DIR
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_LANG_DIR
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_HOME
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_SITEURL
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_CACHE
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Added:WP_ENVIRONMENT_TYPE
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2021/10/11 00:58:58] DB Data Step7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2021/10/11 00:58:58] Finish: Deleting clone job's cache files...
+[INFO]-[2021/10/11 00:58:58] Finish: Clone job's cache files have been deleted!
+[INFO]-[2021/10/11 00:58:58] Finish: Verifying existing clones...
+[INFO]-[2021/10/11 00:58:58] Finish: The job finished!
